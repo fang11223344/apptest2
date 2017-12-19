@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello_world</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="books"><item>疯狂Java讲义</item>
+    <item>疯狂android讲义</item><item>疯狂html讲义</item></string-array>
+</resources>
